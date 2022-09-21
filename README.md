@@ -24,8 +24,6 @@ En el directorio del proyecto:
 
 Debe importar el conector de JAVA Y MYSQL dentro de su proyecto para que se establezca una conexión.
 
-La página se volverá a cargar si realiza modificaciones.
-
 ### `RUN`
 
 Puede ejecutar el software desde la opcion "RUN" que viene integrada en el IDE Apache Netbeans, para eso debe tener su Gestor de Base de Datos activo en todo momento.
